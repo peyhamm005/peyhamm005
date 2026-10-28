@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Windows games
+- 🌱 I’m currently learning how to code in HTML and C#
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've been coding in Scratch since late 2020
+
 <!--
 **peyhamm005/peyhamm005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
